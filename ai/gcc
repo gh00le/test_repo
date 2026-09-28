@@ -1,0 +1,1 @@
+g++ -std=c++11 main.cpp game8.cpp interface.cpp ai.cpp expression.cpp expression_ai.cpp expression_interface.cpp -o lab1.exe
